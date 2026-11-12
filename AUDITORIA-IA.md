@@ -77,7 +77,7 @@ Completen esta sección después de revisar cada hallazgo. No cambien el informe
 
 - **Veredicto:** confirmado / descartado
 - **Evidencia:**
-- **Corrección:**
+- **Corrección:**process.env.API_TOKEN
 - **Prueba de regresión:**
 
 ### Hallazgo 3
